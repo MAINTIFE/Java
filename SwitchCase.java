@@ -12,7 +12,7 @@
 
 public class SwitchCase{
     public static void main(String[] args){
-        int n = 7;
+        int n = 3;
         switch (n){
             case 1:
                 System.out.println("Monday");
